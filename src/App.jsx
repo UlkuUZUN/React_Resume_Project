@@ -37,7 +37,7 @@ function App() {
           <h2Work Experience</h2>
           <ul>
             {EXPERIENCES.map((experienceItem) => (
-              <CoreConcept key={experienceItem.title} {...experienceItem} />
+              <Experience key={experienceItem.title} {...experienceItem} />
             ))}
           </ul>
         </section>
