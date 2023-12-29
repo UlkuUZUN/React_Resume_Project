@@ -51,13 +51,13 @@ function App() {
               Frontend
             </TabButton>
             <TabButton
-              isSelected={selectedTopic === 'backend'}
+              isSelected={selectedSkill === 'backend'}
               onSelect={() => handleSelect('backend')}
             >
               Backend
             </TabButton>
             <TabButton
-              isSelected={selectedTopic === 'innovation'}
+              isSelected={selectedSkill === 'innovation'}
               onSelect={() => handleSelect('innovation')}
             >
               Innovation
