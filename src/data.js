@@ -1,6 +1,6 @@
 import backend from './assets/Backend.png';
 import frontend from './assets/Frontend.png';
-import innovation from './assets/Innovation.png';
+import innovation from './assets/Education.png';
 import management from './assets/Management.png';
 
 export const EXPERIENCES = [
