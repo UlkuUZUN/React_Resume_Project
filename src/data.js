@@ -8,9 +8,7 @@ export const EXPERIENCES = [
     image: backend,
     title: 'backend',
     description:
-      'Developed over 10 Eclipse-based applications written in Java | Created over 10 applications
-written in C# | Built RESTful APIs to serve data to JavaScript front-end based on user inputs | Improved software
-efficiency by 18% through bug fixing and process documentation',
+      'D',
   },
   {
     image: frontend,
@@ -22,18 +20,13 @@ efficiency by 18% through bug fixing and process documentation',
     image: innovation,
     title: 'innovation',
     description:
-      'Completed an integrated Ph.D. program in Information Systems, specializing in software
-engineering and computer science | Generated a novel methodology leveraging cycle-spinning to enhance deep
-learning models | Conducted research on deep learning algorithms for better performance and generalization
-capabilities',
+      'C',
   },
   {
     image: management,
     title: 'management',
     description:
-      'CI/CD management | Team collaboration and project coordination | Strong decision-making
-and analytical skills | Adaptability to new technologies and environments | Excellent time management and
-punctuality | Effective communication and presentation skills',
+      'CI',
   },
 ];
 
@@ -41,7 +34,7 @@ export const EXAMPLES = {
   backend: {
     title: 'backend',
     description:
-      '',
+      'k',
     code: `
 function Welcome() {
   return <h1>Hello, World!</h1>;
