@@ -34,7 +34,7 @@ function App() {
       <Header />
       <main>
         <section id="experiences">
-          <h2Work Experience</h2>
+          <h2>Work Experience</h2>
           <ul>
             {EXPERIENCES.map((experienceItem) => (
               <Experience key={experienceItem.title} {...experienceItem} />
